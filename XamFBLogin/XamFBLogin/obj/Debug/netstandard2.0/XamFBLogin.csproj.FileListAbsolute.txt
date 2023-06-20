@@ -1,0 +1,15 @@
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\bin\Debug\netstandard2.0\XamFBLogin.deps.json
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\bin\Debug\netstandard2.0\XamFBLogin.dll
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\bin\Debug\netstandard2.0\ref\XamFBLogin.dll
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\bin\Debug\netstandard2.0\XamFBLogin.pdb
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamFBLogin.csproj.AssemblyReference.cache
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamFBLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamFBLogin.AssemblyInfoInputs.cache
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamFBLogin.AssemblyInfo.cs
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamFBLogin.csproj.CoreCompileInputs.cache
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamFBLogin.dll
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\refint\XamFBLogin.dll
+D:\xamarin\XamFBLogin\XamFBLogin\XamFBLogin\obj\Debug\netstandard2.0\XamFBLogin.pdb
