@@ -15,11 +15,11 @@ Before you begin, ensure you have the following:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-xamarin-facebook-login-project.git
+   git clone https://github.com/Zulqadar/XamFBLogin.git
 
 2. Navigate to the project directory:
     ```bash
-   cd your-xamarin-facebook-login-project
+   cd XamFBLogin
 3. Open the solution file in Visual Studio or Visual Studio Code.
 4. Configure Facebook App:
    - Create a new Facebook App on Facebook for Developers.
